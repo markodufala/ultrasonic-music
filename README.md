@@ -37,3 +37,8 @@ These are the notes and their ideal distances from the sensor. You can be off by
 • a3- 25cm                                                                                       
 • d3 - 29cm                                                                                       
 • f3 - 33cm                                                                                       
+
+*Best video were you see what it will do:* https://youtu.be/O31HjD2ifUE
+
+***You can find a curcuit in folder.***                                                                                         
+                                                                                         Okey thats all have a nice day :)
