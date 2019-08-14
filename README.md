@@ -40,4 +40,4 @@ These are the notes and their ideal distances from the sensor. You can be off by
 
 *Best video were you see what it will do:* https://youtu.be/O31HjD2ifUE
 
-***You can find a curcuit in folder.***                                                                                          *If you like this project dont forget to give me a star and thats all have a nice day :)*
+***You can find a curcuit in folder.***                                                                                                                                                                                  *If you like this project dont forget to give me a star and thats all have a nice day :)*
