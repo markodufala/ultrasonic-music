@@ -23,4 +23,17 @@ You may ask how we calculate the distance. The formula is:
 where L is the distance, T is the time between the emission and reception, and C is the sonic speed the value is multiplied                                                                                           by 1/2 because T is the time for go-and-return distance.
 
 
-                                                                                                                                       
+**How does project work?**                                                                                               
+We use the distance detection of the sensor to set up different musical notes. So if there is an obstruction at 4 cm it plays one note, and a different note if the obstruction is at 10 cm. Doing this, we can get an octave of notes, which we play using an obstruction. The trigger pin sends out a pulse, and the echo pin receives its echo from the object. They work in unison to determine the time taken to return. We then convert this time into distance.
+
+These are the notes and their ideal distances from the sensor. You can be off by half a centimeter while actually playing.
+
+
+• e4 - 5cm                                                                                       
+• d4# - 9cm                                                                                       
+• b3 - 13cm                                                                                       
+• d4 - 17cm                                                                                       
+• c4 - 21cm                                                                                       
+• a3- 25cm                                                                                       
+• d3 - 29cm                                                                                       
+• f3 - 33cm                                                                                       
