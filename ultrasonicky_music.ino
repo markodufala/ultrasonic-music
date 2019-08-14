@@ -12,7 +12,6 @@ int c4 =  261.63;     //values of the different notes
 int a3 = 220;   
 int d3 = 146.83;
 int f3 = 174.61;      
-int a3# =  233.08;
 int buttonPin = 4;
 int buttonState = 0;
 
