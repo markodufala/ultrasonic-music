@@ -1,9 +1,9 @@
 // defines pins numbers
- const int tp = 9;
-const int ep = 10;
-      int sp = 7;
-         long duration;
-         long distance;
+ const int tp = 10;
+const int ep = 9;
+      int sp = 7
+long duration,distance;
+     
 int e4 = 329.63;
 int d4# = 311.13;
 int b3 = 246.94;
