@@ -29,14 +29,14 @@ We use the distance detection of the sensor to set up different musical notes. S
 These are the notes and their ideal distances from the sensor. You can be off by half a centimeter while actually playing.
 
 
-• e4 - 5cm                                                                                       
+• e4  - 5cm                                                                                       
 • d4# - 9cm                                                                                       
-• b3 - 13cm                                                                                       
-• d4 - 17cm                                                                                       
-• c4 - 21cm                                                                                       
-• a3- 25cm                                                                                       
-• d3 - 29cm                                                                                       
-• f3 - 33cm                                                                                       
+• b3  - 13cm                                                                                       
+• d4  - 17cm                                                                                       
+• c4  - 21cm                                                                                       
+• a3  - 25cm                                                                                       
+• d3  - 29cm                                                                                       
+• f3  - 33cm                                                                                       
 
 *Best video were you see what it will do:* https://youtu.be/O31HjD2ifUE
 
