@@ -5,14 +5,14 @@ const int ep = 10;
          long duration;
          long distance;
 int e4 = 329.63;
-int d44 = 311.13;
+int d4# = 311.13;
 int b3 = 246.94;
 int d4 = 293.66;     //These are the frequency      
 int c4 =  261.63;     //values of the different notes
 int a3 = 220;   
 int d3 = 146.83;
 int f3 = 174.61;      
-int a33 =  233.08;
+int a3# =  233.08;
 int buttonPin = 4;
 int buttonState = 0;
 
@@ -27,7 +27,7 @@ void setup() {
 
   void loop() {
      buttonState = digitalRead(buttonPin);
-     int notes[] = {e4,d44,b3,d4,c4,a3,d3,f3}; 
+     int notes[] = {e4,d4#,b3,d4,c4,a3,d3,f3}; 
 // Clears the trigPin
 digitalWrite(tp, LOW);
 delayMicroseconds(2);
@@ -40,9 +40,9 @@ duration = pulseIn(ep, HIGH);
 // Calculating the distance
 distance= duration*0.034/2;
 // Prints the distance on the Serial Monitor
-Serial.print("Vzdialennosť je: ");
+Serial.print("Distance is: ");
 Serial.print(distance);
-Serial.println(" centimetrov ");
+Serial.println(" centimeters ");
 
 if(distance>4&&distance<42)
   {
@@ -50,13 +50,13 @@ if(distance>4&&distance<42)
       tone(sp,notes[0],650);
     else 
       if(distance>8&&distance<11)
-        tone(sp,notes[1],650);      //d44
+        tone(sp,notes[1],650);      //d4
     else
       if(distance>12&&distance<15)
         tone(sp,notes[2],700);      //b3
     else
       if(distance>16&&distance<19)
-        tone(sp,notes[3],700);      //d4
+        tone(sp,notes[3],700);      //d4#
     else
       if(distance>20&&distance<23)
         tone(sp,notes[4],700);      //c4
@@ -69,10 +69,7 @@ if(distance>4&&distance<42)
     else
       if(distance>32&&distance<35)
         tone(sp,notes[7],700);      //f3
-    else
-      if (distance=5 &&buttonState == LOW)  
-      tone(sp,20,700);                 //A3# (A33)
-          
+         
   }
 
 }
