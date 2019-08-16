@@ -37,7 +37,7 @@ These are the notes and their ideal distances from the sensor. You can be off by
 • a3  - 25cm                                                                                       
 • d3  - 29cm                                                                                       
 • f3  - 33cm                                                                                                                          
-• a3# - 37cm                                                                                                                             • g3  - 41cm                                                                                       
+• a3# - 37cm                                                                                                                             • g3  - 41cm                                                                                                                           
 • f4  - 45cm                                                                                       
 • e4  - 49cm                                                                                        
 *Best video were you see what it will do:* https://youtu.be/O31HjD2ifUE
