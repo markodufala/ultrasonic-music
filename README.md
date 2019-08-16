@@ -33,14 +33,13 @@ These are the notes and their ideal distances from the sensor. You can be off by
 • d4# - 9cm                                                                                       
 • b3  - 13cm                                                                                       
 • d4  - 17cm                                                                                       
-• c4  - 21cm                                                                                       
+• c4  - 21cm                                           
 • a3  - 25cm                                                                                       
 • d3  - 29cm                                                                                       
-• f3  - 33cm                                                                                       
-• a3# - 37cm
-• g3  - 41cm
-• f4  - 45cm
-• e4  - 49cm 
+• f3  - 33cm                                                                                                                          
+• a3# - 37cm                                                                                                                             • g3  - 41cm                                                                                       
+• f4  - 45cm                                                                                       
+• e4  - 49cm                                                                                        
 *Best video were you see what it will do:* https://youtu.be/O31HjD2ifUE
 
 ***You can find a curcuit in folder.***                                                                                                                                                                                  *If you like this project dont forget to give me a star and thats all have a nice day :)*
