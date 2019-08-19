@@ -1,4 +1,4 @@
-# ultrasonic music
+# Ultrasonic music
 
 ***Hello, this is about really simple project, we will need:***
 
